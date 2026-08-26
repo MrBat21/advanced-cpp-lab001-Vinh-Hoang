@@ -2,5 +2,5 @@
 #include <string>
 
 std::string hello_message() {
-    return "Hello, Pextra Academy!\n";
+    return "Hello, Pextra Academy!";
 }
